@@ -13,3 +13,8 @@ management:
         include: "*"
 
 message: This is NOT a default
+
+spring: 
+  cloud:
+    services:
+      registrationMethod: direct
