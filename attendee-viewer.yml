@@ -1,6 +1,6 @@
 ---
 server:
-    port: 8101
+    port: 8080
 
 feign:
     hystrix:
